@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="gif/hello.gif" alt="Welcome!" width="300" />
+<img src="/gif/hello.gif" alt="Welcome!" width="300" />
 
 </div>
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
