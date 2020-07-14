@@ -1,7 +1,12 @@
-### Hi there 👋
 
-<!--
-**SabiulSabit/SabiulSabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center" width="50">
+
+<img src="gif/hello.gif" alt="Welcome!" width="300" />
+
+</div>
+
+
 
 Here are some ideas to get you started:
 
