@@ -12,8 +12,9 @@ Love Music:headphones: and painting :art:.
   
    - C/C++
    - JavaScript
-   - Node.js
-   - Express.js
+   - Node.js | Express.js
+   - MySQL | MongoDB
+   - HTML | CSS | SASS
    - Java
    
 
