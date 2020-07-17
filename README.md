@@ -10,10 +10,10 @@ Love Music:headphones: and painting :art:.
 
 ### Language and Tools
   
-   - <img alt="C/C++" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/c-cplus.png" /> 
+   - <img alt="C/C++" width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/c-cplus.png" /> 
    - <img  alt="JavaScript" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/javascript.png" /> 
    - <img alt="node.js" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/nodejs.png" />  
-   - <img alt="Express.js" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/express.jpg" /> 
+   - <img alt="Express.js" width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/express.jpg" /> 
    - MySQL | MongoDB
    - HTML | CSS | SASS
    - Java
