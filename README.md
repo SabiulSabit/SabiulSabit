@@ -10,9 +10,10 @@ Love Music:headphones: and painting :art:.
 
 ### Language and Tools
   
-   - <img align="left" alt="C/C++" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/c-cplus.png" /> C/C++
-   - <img align="left" alt="JavaScript" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/javascript.png" /> JavaScript
-   - <img align="left" alt="node.js" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/nodejs.png" />  Node.js |  <img align="left" alt="Express.js" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/express.jpg" /> Express.js
+   - <img alt="C/C++" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/c-cplus.png" /> 
+   - <img  alt="JavaScript" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/javascript.png" /> 
+   - <img alt="node.js" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/nodejs.png" />  
+   - <img alt="Express.js" width="40px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/express.jpg" /> 
    - MySQL | MongoDB
    - HTML | CSS | SASS
    - Java
