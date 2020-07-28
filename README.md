@@ -32,7 +32,7 @@ Machine learning<img alt="HTML"  width="30px" height="30px" src="https://raw.git
 
 <div align="center">
     
-   <image align="center" src="https://github-readme-stats.vercel.app/api?username=sabiulsabit&show_icons=true"> 
+   <image align="center" src="https://github-readme-stats.vercel.app/api?username=sabiulsabit&show_icons=true&theme=dracula"> 
        
 </div>   
     
