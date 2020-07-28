@@ -37,10 +37,19 @@ Machine learning<img alt="HTML"  width="30px" height="30px" src="https://raw.git
 </div>   
     
 
+####
 
 <div align="center">
-           
-  <a href="https://www.facebook.com/sabit.syed.5" target="_blank">
-    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/facebook.svg" alt="Facebook" width="30">
-  </a>    
+  
+  <a href="https://www.linkedin.com/in/sabiulsabit13/" target="_blank">
+    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/linkedin.svg" alt="LinkedIn" width="25">
+  </a>  <a href="http://www.codetohaven.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/www.svg" alt="Facebook" width="25">
+  </a>   <a href="https://www.facebook.com/sabit.syed.5" target="_blank">
+    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/facebook.svg" alt="Facebook" width="25">
+  </a><a href="https://www.instagram.com/sabiul_sabit/" target="_blank">
+    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/instagram.svg" alt="Facebook" width="25">
+  </a>
+  
 </div>
+ 
