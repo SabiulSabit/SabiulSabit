@@ -34,7 +34,7 @@ Machine learning<img alt="HTML"  width="30px" height="30px" src="https://raw.git
        
 </div>   
 
-![](https://komarev.com/ghpvc/?username=SabiulSabit&color=cefff1)
+![](https://komarev.com/ghpvc/?username=SabiulSabit&color=c03546)
    
 
 ####
