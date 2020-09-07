@@ -34,11 +34,14 @@ Machine learning<img alt="HTML"  width="30px" height="30px" src="https://raw.git
        
 </div>   
 
+---
 
-<div align="center">
-### 🏆 Github Trophies
-    <img src="https://github-profile-trophy.vercel.app/?username=sabiulsabit&theme=onedark"/>
+<div align="center">  
+    ### 🏆 Github Trophies
+    <img src="https://github-profile-trophy.vercel.app/?username=sabiulsabit&theme=onedark"/>   
 </div>
+
+---
 
 ![](https://komarev.com/ghpvc/?username=SabiulSabit&color=c03546)
    
