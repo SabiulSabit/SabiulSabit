@@ -37,7 +37,7 @@ Machine learning<img alt="HTML"  width="30px" height="30px" src="https://raw.git
 ---
 
 <div align="center">  
-    <b>🏆 Github Trophies 🏆</b> <br>
+     <h2>🏆 Github Trophies 🏆</h2> <br>
     <img src="https://github-profile-trophy.vercel.app/?username=sabiulsabit&theme=onedark"/>   
 </div>
 
