@@ -27,8 +27,6 @@ Love Music:headphones: and painting :art:.
 #### 🌱 I’m currently learning 
 React <img alt="React"  width="30px" height="20px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/react.svg" />
 
-Machine learning<img alt="HTML"  width="30px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/machine-learning.svg" />
-    
 
 <div align="center">
     
