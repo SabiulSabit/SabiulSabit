@@ -24,10 +24,6 @@ Love Music:headphones: and painting :art:.
 
 
 
-#### 🌱 I’m currently learning 
-React <img alt="React"  width="30px" height="20px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/react.svg" />
-
-
 <div align="center">
     
    <image align="center" src="https://github-readme-stats.vercel.app/api?username=sabiulsabit&show_icons=true&theme=dracula"> 
