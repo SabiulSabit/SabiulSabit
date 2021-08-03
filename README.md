@@ -8,7 +8,8 @@
 Hi :green_heart:, I am S. M. Sabiul Hajjaj,currently studying in Computer Science at UIU. Love to Work as a full-stack web developer. 
 Love Music:headphones: and painting :art:.
 
-🧑‍💼 Currently Working as MERN stack Instructor at [Encodemy](https://encodemy.com/) 
+🧑‍💼 Currently Working as Full Stack Software Developer at [Felicity Digital](https://felicity.digital/) 
+🧑‍💼 MERN stack Instructor at [Encodemy](https://encodemy.com/) 
 
 ### Language and Tools
   
