@@ -57,7 +57,7 @@ Love Music:headphones: and painting :art:.
   </a>   <a href="https://www.facebook.com/sabit.syed.5" target="_blank">
     <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/facebook.svg" alt="Facebook" width="25">
   </a><a href="https://www.instagram.com/sabiul_sabit/" target="_blank">
-    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/instagram.svg" alt="Facebook" width="25">
+    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/instagram.svg" alt="instagram" width="25">
   </a>
   
 </div>
