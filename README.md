@@ -17,7 +17,7 @@ Love Music:headphones: and painting :art:.
 ### Programming Language 
   
 
-<img alt="C/C++"  width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/cplus.svg" /> <img  alt="JavaScript"   width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/javascript.png" />  <img  alt="Java"  width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/java.svg" />  <img  alt="Python"  width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/python.svg" />  
+<img alt="C/C++"  width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/cplus.svg" /> <img  alt="JavaScript"   width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/javascript.png" /> <img  alt="TypeScript"   width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/typescript.png" />  <img  alt="Java"  width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/java.svg" />  <img  alt="Python"  width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/python.svg" />  
 
 ### Framework and Library
 <img alt="node.js"  width="45px" height="45px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/nodejs.png" /> <img alt="Express.js" width="60px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/express.svg" /> <img alt="React.js" width="60px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/react.svg" /> 
