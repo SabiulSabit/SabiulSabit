@@ -14,14 +14,16 @@ Love Music:headphones: and painting :art:.
 
 🧑‍💼 MERN stack Instructor at [Encodemy](https://encodemy.com/) 
 
-### Language and Tools
+### Programming Language 
   
 
 <img alt="C/C++"  width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/cplus.svg" /> <img  alt="JavaScript"   width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/js.svg" />  <img  alt="Java"  width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/java.svg" />  <img  alt="Python"  width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/python.svg" />  
 
+### Framework and Library
 <img alt="node.js"  width="45px" height="45px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/nodejs.png" /> <img alt="Express.js" width="60px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/express.svg" /> <img alt="React.js" width="60px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/react.svg" /> 
 </div>
 
+### Database
 <img alt="MySQL"  width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/mysql.png" /> <img alt="MongoDB" width="50px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/mongodb.png?raw=true" /> 
 
 <img alt="HTML"  width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/html5.svg" /><img alt="CSS" width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/browser.svg" /><img alt="SASS" width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/sass.svg" />   
