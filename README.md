@@ -19,9 +19,12 @@ Love Music:headphones: and painting :art:.
 
 <img alt="C/C++"  width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/cplus.svg" /> <img  alt="JavaScript"   width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/javascript.png" /> <img  alt="TypeScript"   width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/typescript.png" />  <img  alt="Java"  width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/java.svg" />  <img  alt="Python"  width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/python.svg" />  
 
-### Framework and Library
-<img alt="node.js"  width="45px" height="45px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/nodejs.png" /> <img alt="Express.js" width="60px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/express.svg" /> <img alt="React.js" width="60px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/react.svg" />  <img alt="Svelte" width="50px" height="50px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/svelte.png" /> 
-</div>
+### Backend Framework and Library
+<img alt="node.js"  width="60px" height="60px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/nodejs.png" /> <img alt="Express.js" width="60px" height="60px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/express.svg" /> <img alt="Nest.js" width="60px" height="60px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/nest.svg" /> 
+
+### Frontend Framework and Library
+<img alt="React.js" width="60px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/react.svg" />  <img alt="Svelte" width="50px" height="50px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/svelte.png" />  
+
 
 ### Database
 <img alt="MySQL"  width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/mysql.png" /> <img alt="MongoDB" width="50px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/mongodb.png?raw=true" /> 
