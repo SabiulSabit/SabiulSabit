@@ -30,7 +30,7 @@ Love Music:headphones: and painting :art:.
 
 
 ### Database
-<img alt="MySQL"  width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/mysql.png" /> <img alt="MongoDB" width="50px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/mongodb.png?raw=true" /> 
+<img alt="MySQL"  width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/mysql.png" /> <img alt="MongoDB" width="50px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/mongodb.png?raw=true" />  <img alt="GraphQL" width="110px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/graphql.png" /> 
 
 
 
