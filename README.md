@@ -56,7 +56,6 @@ Love Music:headphones: and painting :art:.
 ####
 
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/sabiulsabit13/" target="_blank">
     <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/linkedin.svg" alt="LinkedIn" width="25">
   </a>  <a href="http://www.codetohaven.com/" target="_blank">
@@ -66,7 +65,6 @@ Love Music:headphones: and painting :art:.
   </a><a href="https://www.instagram.com/sabiul_sabit/" target="_blank">
     <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/instagram.svg" alt="instagram" width="25">
   </a>
-  
 </div>
 
  
