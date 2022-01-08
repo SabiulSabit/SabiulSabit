@@ -5,7 +5,8 @@
 </div>
 
 
-Hi :green_heart:, I am S. M. Sabiul Hajjaj,currently studying in Computer Science at UIU. Love to Work as a full-stack web developer. 
+Hi :green_heart:, I am S. M. Sabiul Hajjaj. I am a Software Engineer.
+
 Love Music:headphones: and painting :art:.
 
 
