@@ -11,7 +11,7 @@ Love Music:headphones: and painting :art:.
 
 
 
-🧑‍💼 Currently Working as Full Stack Software Developer at [Felicity Digital](https://felicity.digital/) 
+🧑‍💼 Currently Working as a Back-End Engineer at [Felicity Digital](https://felicity.digital/) 
 
 🧑‍💼 MERN stack Instructor at [Encodemy](https://encodemy.com/) 
 
