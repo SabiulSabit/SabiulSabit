@@ -35,17 +35,14 @@ Love Music:headphones: and painting :art:.
 
 
 
-
 <div align="center">
-    
-   <image align="center" src="https://github-readme-stats.vercel.app/api?username=sabiulsabit&show_icons=true&theme=dracula"> 
-       
+   <image align="center" src="https://github-readme-stats.vercel.app/api?username=sabiulsabit&show_icons=true&theme=dracula">    
 </div>   
 
 ---
 
 <div align="center">  
-     <h2>🏆 Github Trophies 🏆</h2> <br>
+     <h2> 🏆 Github Trophies 🏆 </h2> <br>
     <img src="https://github-profile-trophy.vercel.app/?username=sabiulsabit&theme=onedark"/>   
 </div>
 
@@ -59,7 +56,7 @@ Love Music:headphones: and painting :art:.
 <div align="center">
   <a href="https://www.linkedin.com/in/sabiulsabit13/" target="_blank">
     <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/linkedin.svg" alt="LinkedIn" width="25">
-  </a>  <a href="http://www.codetohaven.com/" target="_blank">
+  </a>   <a href="http://www.codetohaven.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/www.svg" alt="website" width="25">
   </a>   <a href="https://www.facebook.com/sabit.syed.5" target="_blank">
     <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/facebook.svg" alt="Facebook" width="25">
