@@ -12,7 +12,7 @@ Love Music:headphones: and painting :art:.
 
 
 
-🧑‍💼 Currently Working as a Back-End Engineer at [Felicity Digital](https://felicity.digital/) 
+🧑‍💼 Currently Working as a Full Stack Developer at [Bevy Commerce]([https://felicity.digital/](https://bevycommerce.com/) 
 
 🧑‍💼 MERN stack Instructor at [Encodemy](https://encodemy.com/) 
 
