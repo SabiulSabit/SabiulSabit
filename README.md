@@ -102,8 +102,6 @@ I founded **Code to HaveN**, a programming education platform where I publish pr
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sabiulhajjaj.com-111827?style=for-the-badge)](https://sabiulhajjaj.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabiul%20Hajjaj-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabiulhajjaj)
-[![GitHub](https://img.shields.io/badge/GitHub-SabiulSabit-111827?style=for-the-badge&logo=github)](https://github.com/SabiulSabit)
-[![Email](https://img.shields.io/badge/Email-iamsabit99%40gmail.com-111827?style=for-the-badge&logo=gmail)](mailto:iamsabit99@gmail.com)
 
 <br />
 
