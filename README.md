@@ -1,74 +1,112 @@
-
-
-<div align="center" width="50">
-    <img src="https://github.com/SabiulSabit/SabiulSabit/blob/master/gif/hello.gif" width="300" />
-</div>
-
-
-Hello Everyone, I am S. M. Sabiul Hajjaj. I am a Software Engineer.
-Loves to work with JavaScript. 
-
-Love Music:headphones: and painting :art:.
-
-
-
- 🧑‍💼 Currently Working as a Full Stack Developer at [Bevy Commerce](https://bevycommerce.com/) 
-
-
-
-### Programming Language 
-  
-
-<img alt="C/C++"  width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/cplus.svg" /> <img  alt="JavaScript"   width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/javascript.png" /> <img  alt="TypeScript"   width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/typescript.png" />  <img  alt="Java"  width="40px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/java.svg" />  <img  alt="Python"  width="40px" height="30px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/python.svg" />  
-
-### Backend Framework and Library
-<img alt="node.js"  width="60px" height="60px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/nodejs.png" /> <img alt="Express.js" width="60px" height="60px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/express.svg" /> <img alt="Nest.js" width="60px" height="60px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/nest.svg" /> 
-
-### Frontend Framework and Library
-<img alt="React.js" width="60px" height="50px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/react.svg" />  <img alt="Svelte" width="50px" height="50px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/svelte.png" />   <img alt="Svelte" width="50px" height="50px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/next.png" /> 
-
-
-<img alt="HTML"  width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/html5.svg" /><img alt="CSS" width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/browser.svg" /><img alt="SASS" width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/sass.svg" />   
-
-
-### Database
-<img alt="MySQL"  width="50px" height="40px" src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/mysql.png" /> <img alt="MongoDB" width="50px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/mongodb.png?raw=true" />  <img alt="GraphQL" width="110px" height="40px" src="https://github.com/SabiulSabit/SabiulSabit/blob/master/img/graphql.png" /> 
-
-
-
 <div align="center">
-   <image align="center" src="https://github-readme-stats.vercel.app/api?username=sabiulsabit&show_icons=true&theme=dracula">    
-</div>   
 
----
+# S M Sabiul Hajjaj
 
-<div align="center">  
-     <h2> 🏆 Github Trophies 🏆 </h2> <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=sabiulsabit&theme=onedark"/>   
+### Senior Software Engineer | Backend & Full-stack | TypeScript / JavaScript | Node.js
+
+Backend and full-stack engineer building APIs, Shopify apps, cloud functions, integration workflows, sync systems, and production product features.
+
 </div>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=SabiulSabit&color=c03546)
-   
+## About Me
 
-####
+I am currently working as a **Senior Software Engineer at [Bevy Commerce](https://bevycommerce.com/)**.
+
+I focus on backend-heavy full-stack engineering, especially around Shopify apps, API integrations, cloud functions, workers, cron jobs, sync systems, and scalable product workflows.
+
+- Building Shopify app features and commerce workflows
+- Working with Node.js, TypeScript, Remix, Express.js, NestJS, GraphQL, Prisma, MongoDB, Firestore, and PostgreSQL
+- Creating backend services, integration layers, cloud functions, and automation workflows
+- Experienced with Shopify APIs, GraphQL, GCP, workers, cron jobs, webhooks, and product analytics
+
+---
+
+## Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs)
+![GraphQL](https://img.shields.io/badge/GraphQL-111827?style=flat-square&logo=graphql)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=flat-square)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs)
+![Remix](https://img.shields.io/badge/Remix-111827?style=flat-square&logo=remix)
+![Svelte](https://img.shields.io/badge/Svelte-111827?style=flat-square&logo=svelte)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss)
+
+### Database, Cloud, and Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql)
+![Firestore](https://img.shields.io/badge/Firestore-111827?style=flat-square&logo=firebase)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-111827?style=flat-square&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git)
+
+---
+
+## Code to HaveN
+
+I founded **Code to HaveN**, a programming education platform where I publish problem-solving explanations and web development learning resources for new developers.
+
+- 950,000+ website views
+- 200+ MERN stack learning videos
+- Practical content around JavaScript, backend development, problem solving, and full-stack projects
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sabiulsabit13/" target="_blank">
-    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/linkedin.svg" alt="LinkedIn" width="25">
-  </a>   <a href="http://www.codetohaven.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/www.svg" alt="website" width="25">
-  </a>   <a href="https://www.facebook.com/sabit.syed.5" target="_blank">
-    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/facebook.svg" alt="Facebook" width="25">
-  </a><a href="https://www.instagram.com/sabiul_sabit/" target="_blank">
-    <img src="https://raw.githubusercontent.com/SabiulSabit/SabiulSabit/master/img/instagram.svg" alt="instagram" width="25">
-  </a>
+
+<a href="https://codetohaven.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Code%20to%20HaveN-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Code to HaveN Website" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@codetohaven" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Code%20to%20HaveN-111827?style=for-the-badge&logo=youtube&logoColor=red" alt="Code to HaveN YouTube" />
+</a>
+
 </div>
 
-####
-    
+---
+
+## GitHub Activity
+
 <div align="center">
-    <a href="https://www.buymeacoffee.com/SabitTheBot" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>    
-</div> 
- 
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SabiulSabit&show_icons=true&theme=github_dark&hide_border=true" alt="Sabiul's GitHub stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabiulSabit&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sabiulhajjaj.com-111827?style=for-the-badge)](https://sabiulhajjaj.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabiul%20Hajjaj-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabiulhajjaj)
+[![GitHub](https://img.shields.io/badge/GitHub-SabiulSabit-111827?style=for-the-badge&logo=github)](https://github.com/SabiulSabit)
+[![Email](https://img.shields.io/badge/Email-iamsabit99%40gmail.com-111827?style=for-the-badge&logo=gmail)](mailto:iamsabit99@gmail.com)
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=SabiulSabit&color=0e75b6&style=flat-square)
+
+</div>
