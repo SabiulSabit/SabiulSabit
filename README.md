@@ -84,18 +84,6 @@ I founded **Code to HaveN**, a programming education platform where I publish pr
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=SabiulSabit&show_icons=true&theme=github_dark&hide_border=true" alt="Sabiul's GitHub stats" />
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SabiulSabit&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
